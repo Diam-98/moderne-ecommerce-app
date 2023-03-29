@@ -2,7 +2,7 @@
 @section('form')
     <!-- Account Logo -->
     <div class="account-logo">
-        <a href="index.html"><img src="{{ asset('assets/back/img/logo2.jpg') }}" alt="Dreamguy's Technologies"></a>
+        <a href="index.html"><img src="{{ asset('assets/back/img/diamil_tech_dev.png') }}" alt="Dreamguy's Technologies"></a>
     </div>
     <!-- /Account Logo -->
     <div class="account-box">

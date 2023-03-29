@@ -3,7 +3,7 @@
     <!-- Logo -->
     <div class="header-left">
         <a href="index.html" class="logo">
-            <img src="{{ asset('assets/back/img/logo.jpg') }}" width="40" height="40" alt="">
+            <img src="{{ asset('assets/back/img/diamil_tech_dev.png') }}" width="40" height="40" alt="">
         </a>
     </div>
     <!-- /Logo -->
@@ -29,7 +29,7 @@
 
         <li class="nav-item dropdown has-arrow main-drop">
             <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
-							<span class="user-img"><img src="{{ asset('assets/back/img/profiles/avatar-21.jpg') }}" alt="">
+							<span class="user-img"><img src="{{ asset('assets/back/img/diamil_tech_dev.png') }}" alt="">
 							<span class="status online"></span></span>
                 <span>{{ Auth::user()->name }}</span>
             </a>

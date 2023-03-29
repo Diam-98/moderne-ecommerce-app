@@ -13,7 +13,7 @@
                 </li>
 
                 <li>
-                    <a href="#">
+                    <a href="{{ route('admin.product') }}">
                         <i class="la la-dashboard"></i>
                         <span>Produits</span>
                     </a>

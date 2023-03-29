@@ -10,7 +10,7 @@
     <title>Dashboard - HRMS admin template</title>
 
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="{{ asset('assets/back/img/favicon.jpg') }}">
+    <link rel="shortcut icon" type="image/x-icon" href="{{ asset('assets/back/img/diamil_tech_dev.png') }}">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="{{ asset('assets/back/css/bootstrap.min.css') }}">
